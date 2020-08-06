@@ -1,0 +1,1 @@
+Her energy get back.
