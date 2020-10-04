@@ -1,4 +1,0 @@
-@INCLUDE        = ../../doxygen/doxygen.conf
-PROJECT_NAME    = "mp_stories"
-PROJECT_BRIEF   = "Sneaky Stories"
-EXTRACT_PRIVATE = YES

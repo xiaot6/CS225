@@ -1,1 +1,0 @@
-Taylor gets new task.
