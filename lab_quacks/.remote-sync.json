@@ -1,0 +1,18 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "linux.ews.illinois.edu/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "xioat6",
+  "watch": [],
+  "transport": "scp",
+  "target": "/home/xiaot6/cs225git/lab_quacks",
+  "password": "Pangqiuqiu99899989!"
+}
